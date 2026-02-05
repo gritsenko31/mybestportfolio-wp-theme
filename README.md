@@ -114,28 +114,5 @@ Responsive Design - Mobile-first approach
 
 Development - AI-assisted vibe coding
 
-🤝 Contributing
-Contributions are welcome! If you'd like to improve this theme:
 
-Fork the repository
 
-Create a feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes (git commit -m 'Add some AmazingFeature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-🐛 Bug Reports
-Found a bug? Please open an issue on GitHub Issues with:
-
-Description of the bug
-
-Steps to reproduce
-
-Expected behavior
-
-Screenshots (if applicable)
-
-Your WordPress and PHP version
