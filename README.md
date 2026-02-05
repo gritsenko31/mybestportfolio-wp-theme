@@ -53,7 +53,7 @@ Visit [mybestportfolio.org](https://www.mybestportfolio.org/) to see the theme i
 4. Navigate to **Appearance** → **Themes**
 5. Find "MyBestPortfolio" and click **Activate**
 
-### Method 3: Via GitHub
+## Method 3: Via GitHub
 
 ```bash
 # Navigate to your WordPress themes directory
