@@ -1,0 +1,15 @@
+# Personal documentation
+wordpress-complete-code.md
+wordpress-theme-guide.md
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.bak
+
+# Temporary files
+*~
+*.tmp
